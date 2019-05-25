@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/my-skelton
+my-skelton.so
+my-skelton.dylib
+my-skelton.dll
+my-skelton.a
+my-skelton.lib
+my-skelton-test-*
+*.exe
+*.o
+*.obj
+*.lst

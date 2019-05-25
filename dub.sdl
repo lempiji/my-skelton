@@ -1,0 +1,5 @@
+name "my-skelton"
+description "A minimal D application."
+authors "lempiji"
+license "proprietary"
+subPackage "init-exec"

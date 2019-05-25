@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/init-exec
+init-exec.so
+init-exec.dylib
+init-exec.dll
+init-exec.a
+init-exec.lib
+init-exec-test-*
+*.exe
+*.o
+*.obj
+*.lst
